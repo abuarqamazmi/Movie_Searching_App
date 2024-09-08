@@ -18,6 +18,7 @@ export default function MovieSearchApp() {
       console.error('Error fetching data:', error);
     }
   };
+  
 
   // Handle input change
   const handleInputChange = (event) => {
